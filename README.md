@@ -1,9 +1,4 @@
 
-# Microsoft Engage 2022
-
-This project is being developed for Microsoft Engage 2022 mentorship program. In this project I have used Machine Learning algorithms and various other algorithms to implement movie recommendation system .
-
-
 ## Tech Stack
 
 **Client:** React, Redux, Material UI
@@ -25,11 +20,7 @@ This project is being developed for Microsoft Engage 2022 mentorship program. In
 ## API Credit
 All the images and data used in project is taken from 
 https://developers.themoviedb.org/3/getting-started/introduction
-## Demo
 
-Video Demo Here
-
-https://youtu.be/JMEGCJxRwDo
 ## Run Locally
 
 Clone the project
@@ -81,7 +72,7 @@ npm start
 ```
 ## Authors
 
-- [@AnuragRoshan](https://github.com/AnuragRoshan)
+- [@AdityaSharma](https://github.com/Adisharmaax)
 
 
 ## Feedback
